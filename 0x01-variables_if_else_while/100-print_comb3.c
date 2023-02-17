@@ -17,7 +17,11 @@
  *All your code should be in the main function
  * Return : 0
 */
-    int main(void)
+
+int main(void)
+{
+code goes here
+}
 {
 int c;
 int d = 0;
