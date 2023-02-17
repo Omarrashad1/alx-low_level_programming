@@ -1,15 +1,17 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *
- * Return: Always 0 (success)
+ * main - prints all strings from 0 to 9
+ * Return: Always 0
 */
 
 int main(void)
 {
-int a;
-for (a = 0; a < 10; a++)
-		printf("%d", a);
-	putchar('\n');
-	return (0);
+int num;
+for (num = 0; num < 10; num++)
+
+printf("%d", num);
+
+printf('\n');
+
+return (0);
 }
