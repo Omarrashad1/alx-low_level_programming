@@ -20,8 +20,8 @@ if (a == 0)
 {
 printf("last digit of %d is %d and is 0\n", n, a);
 }
-if(m < 6 && a != 0)
+if (m < 6 && a != 0)
 {
 printf("last digit of %d is %d and is less than 6 and not 0\n", n, a);
-return(0);
+return (0);
 }
